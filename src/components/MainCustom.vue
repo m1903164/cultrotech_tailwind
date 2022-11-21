@@ -14,7 +14,6 @@
     background: url(../assets/main-custom.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 100px;
 }
 
 .wrapper {
