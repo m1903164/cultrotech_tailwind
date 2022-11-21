@@ -5,6 +5,7 @@
     <MainAbout></MainAbout>
     <MainOurProduct></MainOurProduct>
     <MainCustom></MainCustom>
+    <Footer></Footer>
 </template>
 
 <script setup>
@@ -14,4 +15,5 @@ import MainHead from '../components/MainHead.vue';
 import MainAbout from '../components/MainAbout.vue';
 import MainOurProduct from "../components/MainOurProduct.vue"
 import MainCustom from '../components/MainCustom.vue';
+import Footer from '../components/Footer.vue'
 </script>
